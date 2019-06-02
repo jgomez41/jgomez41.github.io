@@ -1,0 +1,10 @@
+.img_resize {
+	width: 50%;
+	height: 50%;
+}
+.back {
+	background-color: #FAFBD7;
+}
+.text {
+	overflow-wrap: break-word; 
+}
